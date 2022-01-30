@@ -1,0 +1,1 @@
+mv -v $(cat Filename.csv | sed s/\"//g) ./semicolon 
